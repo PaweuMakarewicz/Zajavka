@@ -10,14 +10,13 @@ public static void main(Strings [] args) {
 
  public static final String HEIGHT = "100";
  private String name;
+ private String surname;
  private BigDecimal salary;
  private String pesel;
+
  public Integer age(){
   return 40;
  }
-
-
- 
  public String whatIsYourHobby(){
   return "pizza";
  }
