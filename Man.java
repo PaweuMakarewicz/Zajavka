@@ -5,5 +5,9 @@ public class Man {
 public static void main(Strings [] args) {
  private String name;
  private BigDecimal salary;
+ 
+ public Integer age(){
+  return 40;
+ }
  }
 }
