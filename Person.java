@@ -1,19 +1,11 @@
 public class Person {
     public static void main(String[] args) {
-        
-        //comment
-        //comment
-        //comment
-        //comment
-        //comment
-        //comment
+
         System.out.println("Hello");
-        System.out.println("Hello");
-        System.out.println("Hello");
-        System.out.println("Hello");
-        System.out.println("Hello");
-        System.out.println("Hello");
-        System.out.println("Hello");
+
+        // Pull Request || Merge Request
+        // fature-branch -> origin/feature-branch -> MR - > Gradle build ->
+        // approve -> (origin/feature-branch => origin/master) -> git checkout master -> git pull
        
         
     }
